@@ -1,4 +1,7 @@
 # FaceRecognition
 실시간 얼굴인식 API개발
 
-## Python Face Recognition 이용
+## 사용 모듈
+- OpenCV with python3
+- face_recognition module
+- numpy
