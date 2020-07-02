@@ -7,4 +7,4 @@
 - numpy
 
 ## Description
-![1](./src/1.JPG)
+![1](./1.png)
