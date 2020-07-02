@@ -5,3 +5,6 @@
 - OpenCV with python3
 - face_recognition module
 - numpy
+
+## Description
+![1](./src/1.JPG)
